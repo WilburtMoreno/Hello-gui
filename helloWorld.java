@@ -1,8 +1,7 @@
 # Hello-gui
 Hello world
-class jasdfsd
-{
-  public static void main (String [] args)
-  {
+class helloWorld {
+  public static void main (String [] args) {
+    System.out.println("Hello World");
   }
 }
